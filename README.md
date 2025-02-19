@@ -2,7 +2,7 @@
 - 👀 I’m interested in teaching Chemical Reactors (& python)
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me http://virtualabs.ist.utl.pt
+- 📫 How to reach me <s>http://virtualabs.ist.utl.pt<\s>
 
 <!---
 gamafreire/gamafreire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
